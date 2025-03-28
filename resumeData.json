@@ -1,20 +1,34 @@
 {
-    "Education": [
-      "Mukesh Patel School of Technology Management & Engineering, Mumbai ",
-      "B.Tech. Information Technology (2022-2026)"
-    ],
-    "Past Experience": [
-      "Social Conclave, MPSTME: Sub-Head of Technical  | Jan'24 - Apr'24",
-      "IETE-SF, MPSTME: Sub-Head of Research and Development | June'24 - Mar'25",
-      "CoderOne: Web-Development Intern | Dec'24 - Feb'25"
-    ],
-    "Skills": [
-      "Languages - JavaScript, Java, Python, C++",
-      "WEB TECHNOLOGIES - HTML, CSS, Bootstrap,  JavaScript, NodeJs, Angular, ReactJS , Tailwind CSS, RESTful API",
-      "DBMS - MySQL, Postgresql, MongoDb, Oracle"
-    ],
-    "Resume": ["https://drive.google.com/drive/folders/1UkFKZzmQvrPGHhIxeZskgVKMqhsYnXqf?usp=sharing"],
-    "GitHub": ["https://github.com/VarunRewadi"],
-    "LinkedIn" : ["https://linkedin.com/in/varunrewadi04"],
-    "Contact": ["varunrewadi.vr005@gmail.com","+9752974956"]
-  }
+  "Education": [
+    "Mukesh Patel School of Technology Management & Engineering, Mumbai",
+    "B.Tech. Information Technology (2022-Present)",
+    "Relevant Coursework: Data Structures and Algorithms, Operating Systems, Artificial Intelligence, Web Development, Software Engineering, UI/UX, Object-Oriented Programming"
+  ],
+  "Past Experience": [
+    "Social Conclave, MPSTME: Sub-Head of Technical | Jan'24 - Apr'24",
+    "IETE-SF, MPSTME: Sub-Head of Research and Development | June'24 - Present",
+    "CoderOne: Web-Development Intern | Dec'24 - Feb'25"
+  ],
+  "Skills": [
+    "Languages - C++, Java, Python, JavaScript",
+    "Web Technologies - HTML, CSS, Bootstrap, Tailwind CSS, EJS, ReactJS, Node.js, Express.js, RESTful API",
+    "Databases - MongoDB, PostgreSQL, PhpMyAdmin, SQL",
+    "Other - Git, GitHub, OOP, UI/UX, WebSockets, JQuery"
+  ],
+  "Projects": [
+    {
+      "name": "Tasks To-Do Application",
+      "description": "Java-based task management app with OOP principles, allowing task organization with automated pop-up reminders.",
+      "techStack": ["Java", "OOP", "Java AWT"]
+    },
+    {
+      "name": "Travix",
+      "description": "A travel booking website with two-factor authentication, real-time price updates, and automated email reminders.",
+      "techStack": ["EJS", "Tailwind CSS", "Google-OAuth", "PostgreSQL", "Supabase"]
+    }
+  ],
+  "Resume": ["https://drive.google.com/drive/folders/1UkFKZzmQvrPGHhIxeZskgVKMqhsYnXqf?usp=sharing"],
+  "GitHub": ["https://github.com/VarunRewadi"],
+  "LinkedIn": ["https://linkedin.com/in/varunrewadi04"],
+  "Contact": ["varunrewadi.vr005@gmail.com", "+91 9752974956"]
+}
