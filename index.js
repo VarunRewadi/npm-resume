@@ -20,7 +20,7 @@ var prompts = {
     clear();    
     console.log(
         chalk.cyan.bold(
-            figlet.textSync('      Sunny Setia     ',{
+            figlet.textSync('      Varun Rewadi     ',{
             horizontalLayout:'full',
         }))
     );
