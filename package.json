@@ -1,0 +1,30 @@
+{
+  "name": "resume-varun",
+  "version": "1.1.14",
+  "description": "interactive command line resume of varun rewadi",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "resume-varun": "./.bin/global-index.js"
+  },
+  "author": "varun",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VarunRewadi/npm-resume"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.3.1"
+  },
+  "keywords": [
+    "resume",
+    "varunrewadi",
+    "varun",
+    "rewadi"
+  ]
+}
